@@ -13,7 +13,7 @@ requires = [
 ]
 
 setup(name='python-vote-core',
-      version='20120423.0',
+      version='20170416.0',
       description="An implementation of various election methods, most "
       "notably the Schulze Method and Schulze STV.",
       long_description=README + '\n\n' + CHANGES + '\n\n' + LICENSE,
@@ -25,9 +25,9 @@ setup(name='python-vote-core',
           "Programming Language :: Python :: 3.3",
           "Topic :: Scientific/Engineering :: Mathematics",
       ],
-      author='Brad Beattie',
-      author_email='bradbeattie@gmail com',
-      url='https://github.com/bradbeattie/python-vote-core',
+      author='Jacob Pratt',
+      author_email='jhprattdev@gmail.com',
+      url='https://github.com/jhpratt/python-vote-core',
       license='GPLv3',
       keywords='library election',
       packages=find_packages(),

@@ -4,8 +4,8 @@ Python Vote Core
 python-vote-core implements various electoral methods, providing the results
 calculated off a provided set of ballots and options.
 
-* Project page: http://github.com/bradbeattie/python-vote-core
-* Issue tracker: http://github.com/bradbeattie/python-vote-core/issues
+* Project page: http://github.com/jhpratt/python-vote-core
+* Issue tracker: http://github.com/jhpratt/python-vote-core/issues
 * Example usage: http://modernballots.com
 
 Methods implemented
